@@ -1,1 +1,1 @@
-import { default as Navbar } from "./navbar.component";
+// import { default as Navbar } from "./navbar.component";
